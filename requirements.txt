@@ -1,0 +1,12 @@
+tensorflow-gpu
+nltk
+nltk_data
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+nbformat
+wordcloud
+gensim
+spacy
